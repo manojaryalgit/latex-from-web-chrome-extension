@@ -1,0 +1,28 @@
+.latex-copy-btn {
+    background-color: rgba(34, 34, 34, 0.85);
+    color: #fff;
+    border: 1px solid #555;
+    border-radius: 6px;
+    font-size: 12px;
+    padding: 4px 8px;
+    cursor: pointer;
+    z-index: 1000;
+    position: absolute;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: all 0.2s ease;
+}
+
+.latex-copy-btn:hover {
+    background-color: rgba(68, 68, 68, 0.95);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+    transform: translateY(-1px);
+}
+
+.latex-copy-btn.source-match {
+    background-color: rgba(42, 102, 41, 0.85);
+    border-color: #3a8a38;
+}
+
+.latex-copy-btn.source-match:hover {
+    background-color: rgba(52, 128, 51, 0.95);
+}
