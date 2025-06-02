@@ -1,6 +1,6 @@
 # Privacy Policy for LaTeX From Web
 
-Effective Date: May 30, 2025
+Effective Date: June 2, 2025
 
 ## Overview
 
@@ -34,7 +34,6 @@ The extension uses the following permissions:
 - `activeTab`: To access and parse content on the active page.
 - `clipboardWrite`: To copy LaTeX code directly to the clipboard.
 - `storage`: To locally save user preferences.
-- `scripting`: To insert scripts that detect and extract LaTeX code.
 - Host access (`<all_urls>`): To function across any site that renders LaTeX.
 
 These permissions are strictly necessary to achieve the single purpose of the extension.
@@ -56,4 +55,4 @@ Email: maryalnp@gmail.com
 
 ---
 
-_Last updated: May 30, 2025_
+_Last updated: June 2, 2025_

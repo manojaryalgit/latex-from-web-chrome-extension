@@ -74,8 +74,20 @@ Click the "Test Page" button in the extension popup to open a Wikipedia page wit
 - ✅ Individual equation targeting
 - ✅ Modern dark theme interface
 - ✅ Usage statistics tracking
+- ✅ Chrome Web Store compliant with minimal permissions
+- ✅ Privacy-focused with no data collection
+
+## 🔒 Security & Privacy
+
+This extension uses minimal permissions:
+- `activeTab`: To read content on the current page
+- `clipboardWrite`: To copy LaTeX to your clipboard
+- `storage`: To save your preferences locally
+- `<all_urls>`: To work on any website with math content
+
+No personal data is collected or transmitted. All operations are performed locally in your browser.
 
 ---
 
-**Version:** 1.1  
+**Version:** 1.1 (Chrome Web Store Compliant)  
 **Developed by Manoj Aryal**

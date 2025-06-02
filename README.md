@@ -10,6 +10,7 @@ A cross-browser extension that allows you to copy LaTeX formulas from any web pa
 - **Modern Interface**: Dark theme popup with smooth animations
 - **Smart Detection**: Automatically detects and extracts high-quality LaTeX
 - **Usage Statistics**: Track your copying activity
+- **Privacy-Focused**: Minimal permissions, no data collection, fully local operation
 
 ## 📦 Installation
 
@@ -57,6 +58,13 @@ A cross-browser extension that allows you to copy LaTeX formulas from any web pa
 - **Extension not working**: Ensure it's enabled in the popup and refresh the page
 - **Wrong LaTeX copied**: This has been fixed in the latest version
 
+## 🔒 Privacy & Security
+
+- **No Data Collection**: Extension operates entirely locally
+- **Minimal Permissions**: Only requests necessary permissions for core functionality
+- **Open Source**: Full source code available for transparency
+- **Chrome Web Store Compliant**: Follows all privacy and security guidelines
+
 ## 📄 License
 
 This project is open source and available under the MIT License.
@@ -67,4 +75,4 @@ Created by Manoj Aryal
 
 ---
 
-**Version 1.1** - Enhanced LaTeX extraction and modern UI
+**Version 1.1** - Enhanced LaTeX extraction, modern UI, and Chrome Web Store compliance
