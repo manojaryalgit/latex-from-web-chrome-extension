@@ -3,7 +3,7 @@
   "name": "LaTeX From Web",
   "version": "1.1",
   "description": "Copy LaTeX formulas from web page with a hover and click.",
-  "permissions": ["activeTab", "clipboardWrite", "scripting", "storage", "notifications"],
+  "permissions": ["activeTab", "clipboardWrite", "storage"],
   "host_permissions": ["<all_urls>"],
   "background": {
     "service_worker": "background.js"
